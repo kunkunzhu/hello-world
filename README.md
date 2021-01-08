@@ -3,4 +3,5 @@
 **Languages Featured**
 
 1. Python
-2. JavaScript (HTML & CSS)
+2. Pythob
+3. Python
